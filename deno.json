@@ -1,0 +1,14 @@
+{
+  "name": "fresh_blog",
+  "version": "1.0.0",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "preact"
+  },
+  "imports": {
+    "preact": "https://esm.sh/preact@10.19.2/",
+    "preact/hooks": "https://esm.sh/preact@10.19.2/hooks",
+    "preact/jsx-runtime": "https://esm.sh/preact@10.19.2/jsx-runtime",
+    "marked": "https://esm.sh/marked@4.3.0"
+  }
+}
